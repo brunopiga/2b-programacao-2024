@@ -28,7 +28,10 @@
      width: 25%
      
     }
-
+.escola {
+    background-image: linear-gradient(#132481,#aad35e);
+    color: rgb(252, 0, 0)
+}    
      
 
 

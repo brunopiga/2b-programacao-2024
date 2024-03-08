@@ -32,6 +32,10 @@
     background-image: linear-gradient(#ffffff,#000000);
     color: rgb(0, 235, 252)
 }    
-     
+  display: flex;
+  justify-content: center;
+  aling-items: center;
+  padding: 24px 0;,
+}   
 
 

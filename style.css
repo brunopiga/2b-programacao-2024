@@ -1,7 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+
 * {
     padding:0 ;
     margin: 0%;
     }
+
+    body{
+       font-family: 'Poppins';
+    }
+  
+  
     
     
     
@@ -30,8 +39,8 @@
     }
 .escola {
     background-image: linear-gradient(#ffffff,#000000);
-    color: rgb(0, 0, 0)
-}    
+    color: rgb(0, 0, 0);
+        
   display: flex;
   justify-content: center;
   aling-items: center;

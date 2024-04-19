@@ -1,53 +1,54 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap&#39;);
 
 * {
-    padding:0 ;
-    margin: 0%;
-    }
-
-    body{
-       font-family: 'Poppins';
-    }
-  
-  
-    
-    
-    
-
-    .cabecalho{
-    background-color:#000000 ;
-    color: #f5f5f5;
-    display :flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 24px 0;
-    }
-    
-    .cabecalho-imagem {
-    width: 20%;
-    }
-    
-    .cabecalho-lista-item{
-    display: inline block;
-    margin : 0 16px;
-    font-size: 24px;
-    }
-    .escola-imagem {
-     width: 25%
-     
-    }
-.escola {
-    background-image: linear-gradient(#ffffff,#000000);
-    color: rgb(0, 0, 0);
-        
-  display: flex;
-  justify-content: center;
-  aling-items: center;
-  padding: 24px 0;,
-}   
-
-.conteudo{
-   width:35%;
+padding: 0;
+margin: 0;
 }
 
+body{
+front-family: 'Poppins';
+}
+.cabecalho {
+background-color: #0a4cdb;
+color: #000000e3;
+display:flex;
+justify-content:space-around;
+align-items:centerr;
+padding: 20px 0;
+}
+
+.cabecalho-imagem {
+width: 20%;
+}
+
+.cabecalho-lista-item{
+display: inline-block;
+margin: 0 16px;
+font-size: 24px;
+}
+
+.escola-imagem {
+width: 25%;
+
+}
+.escola{
+background-image: linear-gradient(#00b7ff,#0066ff);
+color:white;
+display:flex;
+justify-content: center;
+align-items: center;
+padding: 24px 0;
+}
+
+.escola-titulo{
+padding: 24px 0;
+}
+
+.conteudo{
+width:35%;
+}
+
+.estudante-titulo{
+text-align: center;
+padding: 50px 0;
+}
